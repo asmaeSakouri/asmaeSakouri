@@ -21,7 +21,7 @@ I'm Asmae SAKOURI, a junior software developer. I love experimenting with new te
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ### I’m currently working on:
-- My portfolio: (https://asmaesakouri.github.io/MyPortfolio.github.io/) - a summary of my profile,projects and skills.
+- My portfolio: (https://asmaesakouri.github.io/MyPortfolio/) - a summary of my profile,projects and skills.
   ### I’m currently learning:
 - Data structure and algorithms to increase my problem solving skills.
 ## Connect with Me 🌐
